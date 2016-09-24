@@ -1,0 +1,6 @@
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Model\bin\Debug\EGS.Stark.Booking.Model.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Model\bin\Debug\EGS.Stark.Booking.Model.pdb
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Model\bin\Debug\EGS.Stark.Model.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Model\obj\Debug\EGS.Stark.Booking.Model.csprojResolveAssemblyReference.cache
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Model\obj\Debug\EGS.Stark.Booking.Model.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Model\obj\Debug\EGS.Stark.Booking.Model.pdb

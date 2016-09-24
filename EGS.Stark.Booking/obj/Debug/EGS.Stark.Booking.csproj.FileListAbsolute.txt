@@ -1,0 +1,14 @@
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\bin\Debug\EGS.Stark.Booking.dll.config
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\bin\Debug\EGS.Stark.Booking.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\bin\Debug\EGS.Stark.Booking.pdb
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\bin\Debug\EGS.Stark.Booking.Model.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\bin\Debug\EGS.Stark.Data.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\bin\Debug\EGS.Stark.Model.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\bin\Debug\EntityFramework.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\bin\Debug\EntityFramework.SqlServer.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\bin\Debug\EGS.Stark.Booking.Model.pdb
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\bin\Debug\EntityFramework.xml
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\bin\Debug\EntityFramework.SqlServer.xml
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\obj\Debug\EGS.Stark.Booking.csprojResolveAssemblyReference.cache
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\obj\Debug\EGS.Stark.Booking.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking\obj\Debug\EGS.Stark.Booking.pdb

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGS.Stark.Booking.Model", "EGS.Stark.Booking.Model\EGS.Stark.Booking.Model.csproj", "{0A39491E-1B75-4936-AAA3-9C2E93609EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGS.Stark.Booking.Injection", "EGS.Stark.Booking.Injection\EGS.Stark.Booking.Injection.csproj", "{88569E66-BCBB-41DB-AAAE-35C6A45ECDD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGS.Stark.Booking", "EGS.Stark.Booking\EGS.Stark.Booking.csproj", "{00415206-CF7A-4429-B2B3-EB4400098248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGS.Stark.Booking.Menager", "EGS.Stark.Booking.Menager\EGS.Stark.Booking.Menager.csproj", "{C6045A0E-D922-4B3D-A1EF-98FBE2A8985F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGS.Stark.Booking.HttpService", "EGS.Stark.Booking.HttpService\EGS.Stark.Booking.HttpService.csproj", "{ED54F8C9-3DDF-4B23-B712-4B2824F14F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A39491E-1B75-4936-AAA3-9C2E93609EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A39491E-1B75-4936-AAA3-9C2E93609EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A39491E-1B75-4936-AAA3-9C2E93609EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A39491E-1B75-4936-AAA3-9C2E93609EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88569E66-BCBB-41DB-AAAE-35C6A45ECDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88569E66-BCBB-41DB-AAAE-35C6A45ECDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88569E66-BCBB-41DB-AAAE-35C6A45ECDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88569E66-BCBB-41DB-AAAE-35C6A45ECDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00415206-CF7A-4429-B2B3-EB4400098248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00415206-CF7A-4429-B2B3-EB4400098248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00415206-CF7A-4429-B2B3-EB4400098248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00415206-CF7A-4429-B2B3-EB4400098248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6045A0E-D922-4B3D-A1EF-98FBE2A8985F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6045A0E-D922-4B3D-A1EF-98FBE2A8985F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6045A0E-D922-4B3D-A1EF-98FBE2A8985F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6045A0E-D922-4B3D-A1EF-98FBE2A8985F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED54F8C9-3DDF-4B23-B712-4B2824F14F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED54F8C9-3DDF-4B23-B712-4B2824F14F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED54F8C9-3DDF-4B23-B712-4B2824F14F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED54F8C9-3DDF-4B23-B712-4B2824F14F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
