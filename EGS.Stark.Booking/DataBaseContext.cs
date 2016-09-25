@@ -1,3 +1,4 @@
+using EGS.Stark.Booking.Model;
 using EGS.Stark.Data;
 
 namespace EGS.Stark.Booking
@@ -12,8 +13,9 @@ namespace EGS.Stark.Booking
         public DataBaseContext()
             : base("name=DataBaseContext")
         {
-        }
 
+        }
+        public virtual DbSet<Book> Supplier { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

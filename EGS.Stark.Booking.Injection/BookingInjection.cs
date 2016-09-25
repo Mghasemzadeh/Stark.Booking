@@ -16,10 +16,10 @@ namespace EGS.Stark.Booking.Injection
         }
         public static IInjectionContainer RegisterServices(this IInjectionContainer container)
         {
-            container.Container.RegisterType<IBookService, BookService>()
+            container.Container.RegisterType<IBookManager, BookManager>()
                 .RegisterType<IRepository<Book>, Repository<Book>>()
 
-                .RegisterType<IBookItemService, BookItemService>()
+                .RegisterType<IBookItemManager, BookItemManager>()
                 .RegisterType<IRepository<BookItem>, Repository<BookItem>>();
 
             return container;

@@ -100,11 +100,13 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\BookController.cs" />
+    <Compile Include="Controllers\TravelPurposeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Helper\ExpressionBuilder.cs" />
     <Compile Include="Helper\FilteringObject.cs" />
+    <Compile Include="Helper\SortBuilder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -119,6 +121,12 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EGS.Stark.Booking.Menager\EGS.Stark.Booking.Menager.csproj">
+      <Project>{C6045A0E-D922-4B3D-A1EF-98FBE2A8985F}</Project>
+      <Name>EGS.Stark.Booking.Menager</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

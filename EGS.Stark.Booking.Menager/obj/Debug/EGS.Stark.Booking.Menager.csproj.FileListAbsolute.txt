@@ -1,4 +1,3 @@
-D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\obj\Debug\EGS.Stark.Booking.Menager.csprojResolveAssemblyReference.cache
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\EGS.Stark.Booking.Menager.dll.config
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\EGS.Stark.Booking.Menager.dll
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\EGS.Stark.Booking.Menager.pdb
@@ -8,15 +7,16 @@ D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\EGS.Stark
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\EGS.Stark.Model.dll
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\EntityFramework.dll
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\EntityFramework.SqlServer.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\Newtonsoft.Json.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\System.Net.Http.Formatting.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\System.Web.Http.dll
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\EGS.Stark.Booking.Model.pdb
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\EGS.Stark.Booking.pdb
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\EntityFramework.xml
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\EntityFramework.SqlServer.xml
-D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\obj\Debug\EGS.Stark.Booking.Menager.dll
-D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\obj\Debug\EGS.Stark.Booking.Menager.pdb
-D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\Newtonsoft.Json.dll
-D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\System.Net.Http.Formatting.dll
-D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\System.Web.Http.dll
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\Newtonsoft.Json.xml
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\System.Net.Http.Formatting.xml
 D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\bin\Debug\System.Web.Http.xml
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\obj\Debug\EGS.Stark.Booking.Menager.csprojResolveAssemblyReference.cache
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\obj\Debug\EGS.Stark.Booking.Menager.dll
+D:\EGCCOMicroService\Stark.Booking\EGS.Stark.Booking.Menager\obj\Debug\EGS.Stark.Booking.Menager.pdb

@@ -9,6 +9,11 @@ namespace EGS.Stark.Booking.Model
 {
     public class Book :IBook
     {
+        public Book()
+        {
+            IsActive = true;
+            CreatationDateTime=DateTime.Now;
+        }
         public int UserId { get; set; }
         public string Token { get; set; }
         public string Email { get; set; }

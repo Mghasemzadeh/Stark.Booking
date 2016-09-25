@@ -8,6 +8,11 @@ namespace EGS.Stark.Booking.Model
 {
     public class BookItem:IBookItem
     {
+        public BookItem()
+        {
+            IsActive = true;
+            CreatationDateTime=DateTime.Now;
+        }
         public int BookId { get; set; }
         public int ServiceId { get; set; }
         public int BookStatus { get; set; }
